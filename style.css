@@ -1,0 +1,90 @@
+ header {
+    font-family: sans-serif;
+    background-color: rgba(255, 255, 255, 0.384);
+    width: 800px;
+    color: black;
+    margin: 20px auto;
+    padding: 15px;
+    }
+    .logo{
+    width: 30%;
+    float:left;
+    color:#aeaeae;
+    font-weight:bold;
+    text-transform: uppercase;
+    line-height:50px;
+    font-size:35px;
+    font-family:sans-serif;
+    }
+    nav {
+    width:68%;
+    float:right;
+    padding: 0;
+    }
+    nav ul{
+    list-style:none;
+    float:right;
+    }
+    nav ul li{
+    font-family: sans-serif;
+    display: inline-block;
+    margin-top: 0px;
+    margin-right: 0px;
+    }
+    nav ul li a{
+    text-decoration: none;
+    color:#666;
+    font-family:sans-serif;
+    font-weight:bold;
+    margin:0 10px;
+    line-height:60px;
+    text-transform: uppercase;
+    }body, h1, h2, p, a, td, span {
+    font-family: sans-serif;
+    text-decoration: none;
+    font: 16px/26px;
+    }
+    body{
+          background-image: url('869.jpg');
+          background-repeat: repeat;
+          background-attachment: fixed;
+          background-size: cover;
+    }
+    p .text_content{
+    padding: 5px;
+    font-size: 12px;
+    }
+    span {
+    color: #044ae2;
+    }
+    .luar {
+    background-color: rgba(255, 255, 255, 0.384);
+    width: 800px;
+    color: black;
+    margin: 20px auto;
+    padding: 15px;
+    }
+    .luar h1,h2 {
+    text-align: center;
+    margin-top: -20px;
+    }
+    .sosmed {
+    background-color: rgba(255, 255, 255, 0.384);
+    width: 800px;
+    color: black;
+    margin: 20px auto;
+    padding: 15px;
+    }
+    .icon {
+    padding: 5px;
+    }
+    .content{
+    background-color: rgba(255,255,255, 0.384);
+    width: 800px;
+    color: black;
+    margin: 20px auto;
+    padding: 15px;
+    }
+    footer {
+    text-align: center;
+    }
